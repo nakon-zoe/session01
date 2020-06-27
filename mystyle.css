@@ -1,0 +1,32 @@
+h1{
+    color: red;
+}
+body{
+    background-color: #f5f78f;
+}
+.special{
+    color: violet;
+}
+.title1{
+    margin: 0;
+    text-align: center;
+}
+.title2{
+    margin: 0;
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .button:hover{
+      background-color: red;
+  }
+  .image{
+      width: 450px;
+  }
